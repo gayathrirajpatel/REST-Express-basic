@@ -2,9 +2,7 @@
 
 This is a basic project to learn REST apis using  Express and Node
 
-
-
-
+ v
 ## Installation
 
 ```bash
